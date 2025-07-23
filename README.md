@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project processes a large product dataset, cleans and transforms the data, and saves it into a SQLite3 database using SQLAlchemy ORM. The workflow is optimized for performance and reliability, including chunked database commits, error handling, and efficient data type conversions.
+This project processes a large product dataset, cleans and transforms the data, and saves it into a SQLite3 database using SQLAlchemy ORM. The workflow is optimized for performance and reliability, including chunked database commits, error handling, and efficient data type conversions.Python version used is 3.11
 
 ---
 
